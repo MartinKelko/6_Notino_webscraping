@@ -1,0 +1,1 @@
+This script automates the process of scraping product information from the Notino website. It navigates the site, interacts with various elements, handles potential CAPTCHAs, and saves the scraped data into a CSV file. Logging provides detailed tracking of the process, making it easier to debug and maintain.

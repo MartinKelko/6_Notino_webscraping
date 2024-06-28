@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore WebDriver manager downloaded drivers
+*.exe
+*.zip
+
+# Ignore output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.csv
+
+# Ignore configuration files
+config.json
